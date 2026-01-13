@@ -796,7 +796,7 @@ _0x1u2v3w:Toggle({
         else
             _0x6n7o8p.Ambient = _0x4b5c6d
             _0x6n7o8p.Brightness = _0x7e8f9g_light
-            _0x6n7o8p.OutdoorAmbient = _0x0h1i2j
+            _0x6n7o8p.OutdoorAmbient = _0x0h1i2jh1i2j
         end
     end
 })
